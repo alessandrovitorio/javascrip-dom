@@ -14,7 +14,7 @@ A **DOM** é a sigla para **Document Object Model**. Ela representa toda a estru
 
 ## 🌳 Representação Visual da Árvore DOM
 
-![Árvore DOM - Exemplo visual](./assets/images/dom-tree-example_hu17403287862339183890.jpg)
+![Árvore DOM - Exemplo visual](./assets/dom-tree-example_hu17403287862339183890.jpg)
 
 🔗 Fonte: [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
